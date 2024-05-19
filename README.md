@@ -1,12 +1,12 @@
-CID_380_Athena_Commando_F_DarkViking_Fire, 1500
-CID_379_Athena_Commando_M_BattleHoundFire, 1500
-Glider_ID_134_DarkVikingFire, 1000
+CID_041_Athena_Commando_F_District, 1000
+CID_240_Athena_Commando_F_Plague, 2000
+ CID_464_Athena_Commando_M_Flamingo, 800
 na
 na
 na
-MusicPack_043_Overdrive, 500
-Pickaxe_ID_261_DarkEagleFire1H, 800
-BID_347_DarkEagleFire, 300
-EID_FireDance, 800
-Umbrella_Season_12, 200
-CID_703_Athena_Commando_M_Cyclone, 0
+BID_273_AssassinSuitCoin, 500
+Pickaxe_Flamingo, 800
+EID_Cry, 300
+Glider_ID_003_District, 500
+Wrap_121_TechOpsBlue, 200
+Pickaxe_ID_014_WinterCamo, 500
